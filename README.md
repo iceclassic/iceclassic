@@ -13,7 +13,7 @@ Primary use:
 - open source community for expanding applications
 
 Related:
-- `iceclassic` documentation: Sphinx pages (numpy documentation style) that illustrates the package features only (TeachBook for application)
+- `iceclassic` documentation: Sphinx pages (numpy documentation style) that illustrates the package features only (TeachBook  for application)
 - TeachBook that introduces the Ice Classic, the package and explores various science, engineering, programming, modelling concepts
 - Contributors should somehow be able to set up more complex analyses and share them with the community
 
