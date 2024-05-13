@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: Part_1/Data.md
+    - file: Part_1/Data.ipynb
       sections:
       - file: Part_1/Getting_the_data.ipynb
       - file: Part_1/Exploring_the_df.ipynb
