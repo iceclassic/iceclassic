@@ -3,7 +3,6 @@ requires = ["hatchling"]
 build-backend = "hatchling.build" 
 [project]
 name = "iceclassic"
-version = "0.0.1 "
 authors = [
   { name="Gabriel Follet", email="g.f.follet@tudelft.nl" },
 ]
