@@ -15,7 +15,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: Other/Proprietary License",
     "Intended Audience :: Education",
-    "Development Status :: 1 - Pre-Alpha",
+    "Development Status :: 1 - Planning",
     "Operating System :: OS Independent",
 ]
 
