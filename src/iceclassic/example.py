@@ -26,7 +26,7 @@ def explore_contents(data: pd.DataFrame,
     """
 
     Function that prints a summary of the dataframe and plots the content/distribution of each column
-    
+    -
     Parameters
     ----------
     data: pd.DataFrame    
