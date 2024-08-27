@@ -29,8 +29,8 @@ def explore_contents(data: pd.DataFrame,
     
     Parameters
     ----------
-    data: pd.DataFrame
-        DataFrames with datetime index  2
+    data: pd.DataFrame    
+        DataFrames with datetime index  
     colormap: str 
         Name of the matplotlib cmap to use in correlation matrix 
     opt: dict
