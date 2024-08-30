@@ -20,10 +20,10 @@ jobs:
     - name: Install dependencies 
       run: pip install hatchling 
       
-    - name: Set version from tag 
-      run: |
-        TAG_VERSION=${GITHUB_REF#refs/tags/} 
-        sed -i "s/^version = .*/version = \"$TAG_VERSION\"/" pyproject.toml 
+    # - name: Set version from tag 
+    #   run: |
+    #     TAG_VERSION=${GITHUB_REF#refs/tags/} 
+    #     sed -i "s/^version = .*/version = \"$TAG_VERSION\"/" pyproject.toml 
       
     - name: Build package 
       run: hatchling build 

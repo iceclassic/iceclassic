@@ -8,7 +8,7 @@ authors = [
 ]
 description = "A small example package for the iceclassic challenge during MUDE course"
 readme = "README.md"
-dynamic = ["version"]
+dynamic = 0.0.1.2
 license = { file = "LICENSE.md" } 
 requires-python = ">=3.8"
 classifiers = [
